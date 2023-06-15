@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/439932847105507339?borderRadius=20px)](https://discord.com/users/439932847105507339)
+[![Discord Presence](https://lanyard.cnrad.dev/api/439932847105507339?borderRadius=20px&hideDiscrim=true)](https://discord.com/users/439932847105507339)
