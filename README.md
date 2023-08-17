@@ -1,9 +1,9 @@
 <!--- Thanks to LlamaLad7 for the inspiration! https://github.com/LlamaLad7/LlamaLad7 --->
 
 <h3>
-    <img align="left" alt="Avatar" height="100px" src="assets/avatar.png" />
 
-![Pearl](assets/header.svg)
+![Pearl](header.svg)
+
 </h3>
 
 ## 👋 Thanks for stopping by
