@@ -8,7 +8,7 @@
 
 ## 👋 Thanks for stopping by
 
-I'm Pearl (He/Him), I'm a self-taught programmer from Canada 🍁, Ontario. Feel free to ask me about any of my projects.
+I'm Pearl (He/Him), I'm a self-taught programmer from Canada 🍁. Feel free to ask me about any of my projects.
 
 ## 📚 Socials
 
