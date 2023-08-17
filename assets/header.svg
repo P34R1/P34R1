@@ -1,5 +1,6 @@
 <svg fill="none" viewBox="0 0 800 100" width="100%" height="100" xmlns="http://www.w3.org/2000/svg" align="center">
     <foreignObject width="100%" height="100%">
+        <img align="left" alt="Avatar" height="100px" src="assets/avatar.png" />
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 @keyframes gradientText {
