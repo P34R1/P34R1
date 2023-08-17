@@ -15,6 +15,9 @@ I'm Pearl (He/Him), I'm a self-taught programmer from Canada 🍁, Ontario. Feel
 [![Gmail](https://img.shields.io/badge/itsp34r1-%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsp34r1@gmail.com)
 [![Discord](https://img.shields.io/badge/pear1__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/439932847105507339)
 
+<details>
+    <summary><h2>🔨 Tooling</h2></summary>
+
 ## 🌠 What I use
 
 <div style="display: flex">
@@ -64,8 +67,10 @@ I'm Pearl (He/Him), I'm a self-taught programmer from Canada 🍁, Ontario. Feel
 - Editor   - [Neovim](https://neovim.io/)
 - Language - [Rust](https://www.rust-lang.org/)
 
+</details>
+
 <details>
-    <summary><h2>📈  Stats</h2></summary>
+    <summary><h2>📈 Stats</h2></summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=P34R1&count_private=true&theme=dracula&show_icons=true)
 
