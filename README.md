@@ -21,18 +21,19 @@ I'm Pearl (He/Him), I'm a self-taught programmer from Canada 🍁. Feel free to 
 ## 🌠 What I use
 
 <div style="display: flex">
-    <!-- https://github.com/devicons/devicon/tree/v2.15.1/icons -->
+    <!-- https://github.com/devicons/devicon/tree/master/icons -->
     <!-- Languages -->
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <!-- Frameworks -->
     <img height="40" src="https://avatars.githubusercontent.com/u/118319153?s=200">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
     <!-- Tools -->
@@ -40,24 +41,19 @@ I'm Pearl (He/Him), I'm a self-taught programmer from Canada 🍁. Feel free to 
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg">
 </div>
 
 ## What I'm learning
 
 <div style="display: flex">
     <!-- Languages -->
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <!-- Frameworks -->
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     <!-- Tools -->
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg">
 </div>
 
 ## My Favourite
@@ -67,7 +63,10 @@ I'm Pearl (He/Him), I'm a self-taught programmer from Canada 🍁. Feel free to 
     - [Unlicense](https://choosealicense.com/licenses/unlicense/)
 - Browser  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - Editor   - [Neovim](https://neovim.io/)
-- Language - [Rust](https://www.rust-lang.org/)
+- Languages
+    - [Rust](https://www.rust-lang.org/)
+    - [Go](https://go.dev/)
+    - [Zig](https://ziglang.org/)
 
 </details>
 
