@@ -2,13 +2,13 @@
 
 <h3>
 
-![Pearl](header.svg)
+![Vincent](header.svg)
 
 </h3>
 
 ## 👋 Thanks for stopping by
 
-I'm Pearl (He/Him), I'm a self-taught programmer from Canada 🍁. Feel free to ask me about any of my projects.
+I'm Vincent (He/Him), I'm a self-taught programmer from Canada 🍁. Feel free to ask me about any of my projects.
 
 ## 📚 Socials
 
