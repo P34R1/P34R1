@@ -16,6 +16,20 @@ I'm Vincent (He/Him), I'm a self-taught programmer from Canada 🍁. Feel free t
 [![Discord](https://img.shields.io/badge/pear1__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/439932847105507339)
 
 <details>
+    <summary><h2>🙋‍♂️ More about me</h2></summary>
+
+## My hobbies
+
+Some of my favourite things to do are
+  - Programming/Coding
+  - Skateboarding (recently got into it)
+  - Playing Videogames
+
+My favourite colour is purple 🟪.
+My favourite video game is Half Life (1)
+</details>
+
+<details>
     <summary><h2>🔨 Tooling</h2></summary>
 
 ## 🌠 What I use
