@@ -2,7 +2,7 @@
 
 <h3>
 
-![Vincent](header.svg)
+![Vincent](https://raw.githubusercontent.com/P34R1/P34R1/refs/heads/main/header.svg)
 
 </h3>
 
